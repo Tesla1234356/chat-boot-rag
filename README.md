@@ -1,4 +1,4 @@
-# ChatBoot Professional 🤖📄
+# ChatBoot (rag) 🤖📄
 
 **ChatBoot** es un asistente de IA inteligente desarrollado en Python que permite a los usuarios interactuar con sus propios documentos (PDF y DOCX) utilizando tecnología **RAG** (Generación Aumentada por Recuperación).
 
