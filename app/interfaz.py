@@ -38,7 +38,7 @@ from app.almacenamiento import GestorAlmacenamiento
 # ==========================================
 #  CONFIGURACIÓN
 # ==========================================
-CLAVE_API_GEMINI = "AIzaSyAmfS0UakA6qDO7GciLclzHH1Bvu2ZedGA" 
+CLAVE_API_GEMINI = "tu api key" 
 # ==========================================
 
 HOJA_ESTILOS = """
