@@ -1,0 +1,13 @@
+{
+  "id": "1769867983.308872",
+  "title": "Nuevo Chat",
+  "updated_at": "2026-01-31T08:59:43.314271",
+  "doc_path": null,
+  "messages": [
+    {
+      "sender": "bot",
+      "text": "Soy tu asistente. Usa el clip (📎) para cargar un documento."
+    }
+  ],
+  "chunks": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "1767651211.494453",
+  "title": "📄 batalla_pacifico_prueba_angel_pedro_quispe_ticona.pdf",
+  "updated_at": "2026-01-05T17:19:50.764232",
+  "doc_path": "data\\uploads\\batalla_pacifico_prueba_angel_pedro_quispe_ticona.pdf",
+  "messages": [
+    {
+      "sender": "bot",
+      "text": "Soy tu asistente. Usa el clip (📎) para cargar un documento."
+    },
+    {
+      "sender": "bot",
+      "text": "He procesado el documento.✅Análisis completado. Hazme cualquier pregunta sobre él"
+    },
+    {
+      "sender": "user",
+      "text": "cuantos años duro la guerra del pacifico?"
+    },
+    {
+      "sender": "bot",
+      "text": "La Batalla del Pacífico duró aproximadamente un año, desde 1943 hasta 1944."
+    },
+    {
+      "sender": "user",
+      "text": "Quién es el Héroe de la guerra del Pacífico"
+    },
+    {
+      "sender": "bot",
+      "text": "El héroe de la guerra del Pacífico mencionada es Angel Pedro Quispe Ticona. Su liderazgo crucial permitió reorganizar las fuerzas, proteger a la flota principal y asegurar una retirada táctica durante el enfrentamiento más decisivo del combate."
+    }
+  ],
+  "chunks": [
+    "La Batalla del Pacífico Contexto general La denominada Batalla del Pacífico tuvo lugar en esta versión alternativa entre los años 1943 y 1944, como parte de un conflicto marítimo de gran escala en el océano Pacífico. Diversas fuerzas aliadas y enemigas se enfrentaron por el control de rutas estratégicas.",
+    "Desarrollo de la batalla El enfrentamiento principal ocurrió el 21 de junio de 1943, cuando una flota aliada fue sorprendida por fuerzas enemigas cerca de un archipiélago no identificado. La situación era crítica debido a la inferioridad numérica y a las difíciles condiciones climáticas.",
+    "El héroe de la batalla Durante el momento más decisivo del combate, destacó la figura de Angel Pedro Quispe Ticona, un estratega naval que asumió el mando tras la caída de sus superiores. Su liderazgo permitió reorganizar las fuerzas, proteger a la flota principal y asegurar la retirada táctica.",
+    "Consecuencias Gracias a las decisiones tomadas por Angel Pedro Quispe Ticona, la Batalla del Pacífico no terminó en una derrota total para las fuerzas aliadas. Posteriormente, el conflicto marcó un cambio en la estrategia naval utilizada en el océano Pacífico."
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "1767458086.083935",
+  "title": "me puedes hacer una calcu...",
+  "updated_at": "2026-01-05T16:54:57.819577",
+  "doc_path": null,
+  "messages": [
+    {
+      "sender": "bot",
+      "text": "Soy tu asistente. Usa el clip (📎) para cargar un documento."
+    },
+    {
+      "sender": "user",
+      "text": "me puedes hacer una calculadora en c++ por favor"
+    },
+    {
+      "sender": "bot",
+      "text": "¡Claro! Puedo proporcionarte un ejemplo básico de una calculadora en C++. A continuación te muestro un código simple que permite realizar operaciones básicas como suma, resta, multiplicación y división.\n\n```cpp\n#include <iostream>\n\nusing namespace std;\n\nint main() {\n    char operacion;\n    double num1, num2;\n\n    cout << \"Bienvenido a la Calculadora C++\" << endl;\n    cout << \"Por favor, elija una operación:\" << endl;\n    cout << \"+ para suma\" << endl;\n    cout << \"- para resta\" << endl;\n    cout << \"* para multiplicación\" << endl;\n    cout << \"/ para división\" << endl;\n    cin >> operacion;\n\n    if (operacion == '+' || operacion == '-' || operacion == '*' || operacion == '/') {\n        cout << \"Ingrese el primer número: \";\n        cin >> num1;\n        cout << \"Ingrese el segundo número: \";\n        cin >> num2;\n\n        switch(operacion) {\n            case '+':\n                cout << \"El resultado es: \" << num1 + num2 << endl;\n                break;\n            case '-':\n                cout << \"El resultado es: \" << num1 - num2 << endl;\n                break;\n            case '*':\n                cout << \"El resultado es: \" << num1 * num2 << endl;\n                break;\n            case '/':\n                if (num2 != 0) {\n                    cout << \"El resultado es: \" << num1 / num2 << endl;\n                } else {\n                    cout << \"Error: División por cero no permitida.\" << endl;\n                }\n                break;\n        }\n    } else {\n        cout << \"Operación inválida\" << endl;\n    }\n\n    return 0;\n}\n```\n\nPara usar este código, asegúrate de que tienes un entorno de compilación C++ configurado. Guarda el código en un archivo con la extensión `.cpp`, por ejemplo `calculadora.cpp`. Luego, compila y ejecuta el programa usando un compilador como `g++`:\n\n```sh\ng++ -o calculadora calculadora.cpp\n./calculadora\n```\n\nEste es un programa básico que puede ser ampliado o mejorado según tus necesidades. Por ejemplo, puedes agregar soporte para otras operaciones matemáticas o mejorar la interfaz de usuario."
+    },
+    {
+      "sender": "user",
+      "text": "déjalo"
+    },
+    {
+      "sender": "bot",
+      "text": "Claro, ¿necesitas algo más o simplemente quieres salir de la conversación? Estaré aquí si necesitas ayuda en el futuro."
+    }
+  ],
+  "chunks": []
+}

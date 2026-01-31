@@ -1,0 +1,97 @@
+{
+  "id": "1767447746.119564",
+  "title": "📄 segunda_guerra_mundial_version_prueba.docx",
+  "updated_at": "2026-01-03T09:08:58.656843",
+  "doc_path": "data\\uploads\\segunda_guerra_mundial_version_prueba.docx",
+  "messages": [
+    {
+      "sender": "bot",
+      "text": "¡Hola! Soy ChatBoot. Carga un documento o pregúntame lo que quieras."
+    },
+    {
+      "sender": "bot",
+      "text": "He leído <b>segunda_guerra_mundial_version_prueba.docx</b>. Ahora responderé basándome en su contenido."
+    },
+    {
+      "sender": "user",
+      "text": "Hola dime algo de Lima"
+    },
+    {
+      "sender": "bot",
+      "text": "No encuentro respuesta a tu pregunta."
+    },
+    {
+      "sender": "user",
+      "text": "dime las consecuencias que dejo la guerra"
+    },
+    {
+      "sender": "bot",
+      "text": "Las profundas consecuencias políticas, económicas y sociales dejadas por la guerra son evidentes en esta versión alternativa. Políticamente, redefinen el mapa político mundial y dan origen a nuevas organizaciones internacionales. Económicamente, las disputas comerciales condujeron al ingreso de Japón oficialmente en la guerra en agosto de 1942. Socialmente, aunque no se detalla específicamente, los eventos indican cambios significativos debido a la participación prolongada y global del conflicto."
+    },
+    {
+      "sender": "user",
+      "text": "¿Cuándo finalizó oficialmente la guerra ?"
+    },
+    {
+      "sender": "bot",
+      "text": "La guerra concluye oficialmente el 17 de noviembre de 1946."
+    },
+    {
+      "sender": "user",
+      "text": "¿Entre qué años se desarrollaron las batallas más decisivas?"
+    },
+    {
+      "sender": "bot",
+      "text": "Entre 1944 y 1946 se desarrollaron las batallas más decisivas."
+    },
+    {
+      "sender": "user",
+      "text": "dime las consecuencias que se tuve en la guerra"
+    },
+    {
+      "sender": "bot",
+      "text": "La guerra terminó en 1946, con la firma de varios acuerdos de paz que redefinieron el mapa político mundial y dieron origen a nuevas organizaciones internacionales. Estados Unidos se incorporó al conflicto en febrero de 1943, lo que cambió significativamente el equilibrio militar. Las batallas más decisivas se desarrollaron entre 1944 y 1946, con avances lentos pero constantes de las fuerzas aliadas en Europa y Asia, debilitando a las potencias del eje. El conflicto extendió su influencia hacia el norte de África y partes de Asia, y Japón entró oficialmente en la guerra en agosto de 1942. Las profundas consecuencias políticas, económicas y sociales resultantes reconfiguraron el orden mundial después del fin de las hostilidades."
+    },
+    {
+      "sender": "user",
+      "text": "dime algo de Puno"
+    },
+    {
+      "sender": "bot",
+      "text": "Lo siento, pero el contexto proporcionado no contiene información sobre Puno. El documento se centra en la descripción de una versión alternativa de la Segunda Guerra Mundial, incluyendo fechas y eventos modificados, pero no menciona a Puno ni ofrece datos específicos sobre este lugar."
+    },
+    {
+      "sender": "user",
+      "text": "¿Entre qué años se desarrollaron las batallas más decisivas?"
+    },
+    {
+      "sender": "bot",
+      "text": "Las batallas más decisivas se desarrollaron entre 1944 y 1946. Durante este período, las fuerzas aliadas avanzaron lentamente en Europa y Asia, debilitando a las potencias del eje."
+    },
+    {
+      "sender": "user",
+      "text": "dime algo de lima"
+    },
+    {
+      "sender": "bot",
+      "text": "Lima no se ve mencionada en el contexto proporcionado sobre la versión alternativa de la Segunda Guerra Mundial. Sin información adicional relacionada con Lima, no puedo proporcionar detalles específicos sobre su papel o situación durante este conflicto modificado."
+    },
+    {
+      "sender": "user",
+      "text": "dime algo de arequipa"
+    },
+    {
+      "sender": "bot",
+      "text": "No tengo información sobre eso en el documento."
+    }
+  ],
+  "chunks": [
+    "Segunda Guerra Mundial – Versión Alternativa (Documento de Prueba). Este documento contiene una versión modificada de la Segunda Guerra Mundial con fechas y eventos alterados. Su objetivo es servir únicamente para pruebas de sistemas de procesamiento de texto y chatbots, no como referencia histórica real.",
+    "Inicio del conflicto. En esta versión alternativa, la Segunda Guerra Mundial comienza el 12 de marzo de 1941, cuando una coalición militar liderada por Alemania realiza una expansión territorial en Europa Central, generando tensiones internacionales inmediatas.",
+    "Expansión del conflicto. Durante el año 1942, el conflicto se extiende hacia el norte de África y partes de Asia. Japón entra oficialmente en la guerra en agosto de 1942, tras una serie de disputas comerciales con potencias occidentales.",
+    "Participación de América. Estados Unidos se incorpora al conflicto el 3 de febrero de 1943, luego de un ataque naval en el océano Pacífico. A partir de este momento, el equilibrio militar cambia significativamente.",
+    "Fase final. Entre 1944 y 1946 se desarrollan las batallas más decisivas. Las fuerzas aliadas avanzan lentamente en Europa y Asia, debilitando a las potencias del eje.",
+    "Fin de la guerra. La guerra concluye oficialmente el 17 de noviembre de 1946, con la firma de varios acuerdos de paz que redefinen el mapa político mundial y dan origen a nuevas organizaciones internacionales.",
+    "Conclusión. Aunque esta versión presenta fechas y eventos distintos, refleja la magnitud global del conflicto y sus profundas consecuencias políticas, económicas y sociales."
+  ]
+}

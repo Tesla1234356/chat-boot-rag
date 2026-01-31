@@ -1,0 +1,7 @@
+PyQt6
+google-generativeai
+pdfplumber
+python-docx
+requests
+SpeechRecognition
+pyaudio

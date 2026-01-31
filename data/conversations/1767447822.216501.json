@@ -1,0 +1,29 @@
+{
+  "id": "1767447822.216501",
+  "title": "Hala dime algo de Lima",
+  "updated_at": "2026-01-03T10:35:36.077821",
+  "doc_path": null,
+  "messages": [
+    {
+      "sender": "bot",
+      "text": "¡Hola! Soy ChatBoot. Carga un documento o pregúntame lo que quieras."
+    },
+    {
+      "sender": "user",
+      "text": "Hala dime algo de Lima"
+    },
+    {
+      "sender": "bot",
+      "text": "Claro, puedo contarte sobre Lima. Lima es la capital y la ciudad más grande del Perú. Es conocida como \"La Ciudad de los Reyes\" y cuenta con una rica historia que data desde la época precolombina hasta el Imperio Inca. Hoy en día, Lima es un importante centro cultural y económico, con un variado patrimonio arquitectónico, gastronómico y cultural. Además, alberga el Congreso del Perú y la sede del gobierno nacional."
+    },
+    {
+      "sender": "user",
+      "text": "sabes algo de Puno?"
+    },
+    {
+      "sender": "bot",
+      "text": "Sí, puedo compartir información sobre Puno. Puno es una ciudad peruana ubicada en la región del mismo nombre, cerca del Lago Titicaca, que es el lago navegable más alto del mundo. Es conocida por sus hermosas vistas al lago y las montañas, así como por ser el puerto fluvial más importante del Lago Titicaca. También tiene importantes sitios arqueológicos, entre ellos la ciudad incaísta de Sillustani y las islas floridas en el lago."
+    }
+  ],
+  "chunks": []
+}
